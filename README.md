@@ -11,7 +11,7 @@
 
 ![tailwind](https://user-images.githubusercontent.com/46372998/178103920-a2104292-cebb-4e1e-8abb-946119f9d812.png)
 
-## Main Projects
+# Main Projects
 
 ### *LOOPSTUDIOS*
 - [check it!](https://tailwind-projects.vercel.app/main-projects/loopstudios/index.html)
@@ -43,9 +43,7 @@
 
 ![tailwind-main06](https://user-images.githubusercontent.com/46372998/178103901-636c906d-796c-4194-881e-a163633b14a5.png)
 
-<hr />
-
-## Mini Projects
+# Mini Projects
 
 ### *PRICING GRIDS*
 - [check it!](https://tailwind-projects.vercel.app/mini-projects/pricing-grids/index.html)
