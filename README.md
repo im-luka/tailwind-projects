@@ -1,6 +1,6 @@
 # 🏄🏻‍♂️ Learning Tailwind with Projects
 
-### Be sure to check the website for the best experience!
+*Be sure to check the website for the best experience!*
 > [See website](https://tailwind-projects.vercel.app/)
 <hr />
 
