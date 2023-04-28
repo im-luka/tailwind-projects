@@ -70,4 +70,3 @@
 #### [*EMAIL SUBSCRIBE CARD*](https://tailwind-projects.vercel.app/mini-projects/email-card/index.html)
 
 ![tailwind-mini05](https://user-images.githubusercontent.com/46372998/178104232-40822097-c788-4203-ae28-6b06a2f63ba5.png)
-
